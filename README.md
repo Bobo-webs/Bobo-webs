@@ -45,5 +45,3 @@ reporting using tools like Microsoft Excel and SQL
 <a href="http://www.github.com/bobo-webs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bobo-webs&stroke=ffffff&background=0f1f14&ring=4a7c59&fire=2d5a3d&currStreakNum=ffffff&currStreakLabel=4a7c59&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/bobo-webs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobo-webs&langs_count=10&title_color=4a7c59&text_color=ffffff&icon_color=4a7c59&bg_color=0f1f14&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-
-<a href="https://github.com/bobo-webs"><img src="https://github-profile-trophy.netlify.app/?username=bobo-webs&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=4" alt="bobo-webs's GitHub Trophies" /></a>
