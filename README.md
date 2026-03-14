@@ -1,9 +1,7 @@
 
-Hi there 👋 My Name is Onwuka Chukwuemeka
-==========================================
+# Hi there 👋 My Name is Onwuka Chukwuemeka
 
-Web Developer & Data Analyst
-----------------------------
+## Web Developer & Data Analyst
 
 I build responsive web applications and work with data to uncover insights and solve real-world problems. My interests span full-stack web development, data analysis, and building practical digital solutions.
 
