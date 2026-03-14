@@ -28,6 +28,13 @@ reporting using tools like Microsoft Excel and SQL
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="./images/vercel.png" width="36" height="36" alt="vercel" /></a>
 </p>
 
+<p>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="./images/excel.png" width="36" height="36" alt="excel" /></a>
+<a href="https://en.wikipedia.org/wiki/Paint_3D" target="_blank" rel="noreferrer"><img src="./images/paint3d.png" width="36" height="36" alt="paint3d" /></a>
+<a href="https://www.postgresql" target="_blank" rel="noreferrer"><img src="./images/postgresql.png" width="36" height="36" alt="postgresql" /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer"><img src="./images/word.png" width="36" height="36" alt="word" /></a>
+</p>
+
 
 ### Badges
 
