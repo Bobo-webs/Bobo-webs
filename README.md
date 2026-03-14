@@ -19,7 +19,13 @@ reporting using tools like Microsoft Excel and SQL
 
 
 <p align="left">
+<a href="https://html.com/html5" target="_blank" rel="noreferrer"><img src="./images/html5.png" width="36" height="36" alt="html5" /></a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"><img src="./images/css.png" width="36" height="36" alt="css" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="./images/Bootstrap.png" width="36" height="36" alt="bootstrap" /></a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="./images/js.png" width="36" height="36" alt="js" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="./images/firebase.png" width="36" height="36" alt="firebase" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./images/git.png" width="36" height="36" alt="Git" /></a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="./images/vercel.png" width="36" height="36" alt="vercel" /></a>
 </p>
 
 
