@@ -19,7 +19,7 @@ reporting using tools like Microsoft Excel and SQL
 
 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="images/git.png" width="36" height="36" alt="Git" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./images/git.png" width="36" height="36" alt="Git" /></a>
 </p>
 
 
