@@ -20,7 +20,7 @@ reporting using tools like Microsoft Excel and SQL
 <a href="https://www.linkedin.com/in/chukwuemeka-onwuka-
 032a5724b" target="_blank" rel="noreferrer"><img src="./images/linkedin.svg" width="36" height="36" alt="linkedin" /></a>
 <a href="https://www.github.com/bobo-webs" target="_blank" rel="noreferrer"><img src="./images/github.png" width="36" height="36" alt="github" /></a>
-<a href="https://www.x.com/@Emekanaki" target="_blank" rel="noreferrer"><img src="./images/twitterx.jpg" width="36" height="36" alt="x" /></a>
+<a href="https://www.x.com/@Emekanaki" target="_blank" rel="noreferrer"><img src="./images/twitterx.png" width="36" height="36" alt="x" /></a>
 </p>
 
 
