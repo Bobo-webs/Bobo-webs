@@ -48,6 +48,7 @@ reporting using tools like Microsoft Excel and SQL
 ### Badges
 
 <b>My GitHub Stats</b>:
+
 <a href="http://www.github.com/bobo-webs"><img src="https://github-readme-stats.vercel.app/api?username=bobo-webs&show_icons=true&hide=&count_private=true&title_color=4a7c59&text_color=ffffff&icon_color=4a7c59&bg_color=0f1f14&hide_border=true&show_icons=true" alt="bobo-webs's GitHub stats" /></a>
 
 <a href="http://www.github.com/bobo-webs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bobo-webs&stroke=ffffff&background=0f1f14&ring=4a7c59&fire=2d5a3d&currStreakNum=ffffff&currStreakLabel=4a7c59&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
